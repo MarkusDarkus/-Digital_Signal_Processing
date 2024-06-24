@@ -1,2 +1,2 @@
 # Digital_Signal_Processing
-My truies to work in MIPT_LAB
+My tryies to work in MIPT_LAB
